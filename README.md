@@ -1,2 +1,2 @@
 # semisupCR
-semi-supervised cocnept recognition
+semi-supervised concept recognition
